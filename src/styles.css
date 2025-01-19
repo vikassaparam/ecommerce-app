@@ -9,7 +9,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-
     margin: auto;
 }
 
-.container-small{
+.container-sm{
     padding: 50px;
     max-width: 800px;
     margin: auto;
